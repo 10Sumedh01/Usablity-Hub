@@ -398,9 +398,6 @@ footer .link-column h3{
 
 /* <-- Responsive styling here--> */
 @media screen and (max-width: 950px) {
-  body {
-    background-color: lightgreen;
-  }
   .company-logo{
     display: none;
   }
